@@ -3,3 +3,5 @@
 ## Krish Naik
 
 ## Github Tutorials
+
+## Jayeti Sinha Github Tutorial
