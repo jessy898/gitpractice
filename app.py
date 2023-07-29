@@ -12,3 +12,5 @@ def mango(a,b):
     print(a*b*3)
 
 
+def divide(a,b):
+    return a/b
