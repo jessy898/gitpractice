@@ -7,3 +7,8 @@ def multiply(a,b):
 
 def subtract(a,b):
     return a-b
+
+def mango(a,b):
+    print(a*b*3)
+
+
